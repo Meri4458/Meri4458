@@ -7,11 +7,11 @@
 
 ### 🌟 About Me
 
-- 🎓 **Computer Programming** student at *İstinye University* (Graduating in 2026)
-- 🔭 Currently building: **Focus Tracker App** using **JavaScript + React**
-- 🌱 Learning: **Next.js**, **Advanced React**, and **Python for Data Science**
-- 🧠 Passionate about: **UI/UX Design**, **Deep Focus Tools**, **Mind-Body Wellness Technologies**
-- 🏆 Participated in:
+-  **Computer Programming** student at *İstinye University* (Graduating in 2026)
+-  Currently building: **Focus Tracker App** using **JavaScript + React**
+-  Learning: **Next.js**, **Advanced React**, and **Python for Data Science**
+-  Passionate about: **UI/UX Design**, **Deep Focus Tools**, **Mind-Body Wellness Technologies**
+-  Participated in:
   - **ETHGlobal Hackathons**
   - **YetGen Engineering Programs** *(since Sept 2024)*
   - **Istanbul Technical University (ITU) Summits**
