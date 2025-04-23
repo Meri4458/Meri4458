@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm İrem Kurnaz</h1>
 <h3 align="center">Frontend Developer | Computer Programming Student | Tech Explorer</h3>
 
-<p align="center">
-  🚀 Passionate about creating meaningful interfaces, building productivity tools, and exploring the intersection of tech & personal growth.
-</p>
+
 
 ---
 
@@ -21,7 +19,6 @@
 - 📚 Languages: **English (B2–C1)** | **French (A2)**
 - 📬 Reach me: **kurnazirem95@gmail.com**
 - 👩‍💼 [LinkedIn](https://www.linkedin.com/in/irem-kurnaz-a98b5630b/) | [GitHub](https://github.com/Meri4458)
-- ✨ Fun fact: I'm fascinated by *lost continents, cosmic mysteries, and secret societies* 🛸
 
 ---
 
