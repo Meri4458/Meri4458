@@ -3,27 +3,27 @@ irem kurna
 2420161073
 [
 ](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguekny2j)-->
-<h1 align="center">Hi 👋, I'm İrem Kurnaz</h1>
+<h1 align="center">Hi, I'm İrem Kurnaz</h1>
 <h3 align="center">Frontend Developer | Computer Programming Student </h3>
 
 
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 -  **Computer Programming** student at *İstinye University* (Graduating in 2026)
 -  Currently building: **Focus Tracker App** using **JavaScript + React**
 -  Learning: **Next.js**, **Advanced React**, and **Python for Data Science**
 -  Passionate about: **UI/UX Design**, **Deep Focus Tools**, **Mind-Body Wellness Technologies**
 -  Participated in:
-  - **ETHGlobal Hackathons**
+  - **Onlyjs academy front end development program**
   - **YetGen Engineering Programs** *(since Sept 2024)*
   - **Istanbul Technical University (ITU) Summits**
   - **Talent Coder Bootcamp**
-- 📚 Languages: **English (B2–C1)** | **French (A2)**
-- 📬 Reach me: **kurnazirem95@gmail.com**
-- 👩‍💼 [LinkedIn](https://www.linkedin.com/in/irem-kurnaz-a98b5630b/) | [GitHub](https://github.com/Meri4458)
+-  Languages: **English (B2–C1)** | **French (A1) ** | ** Spanish(A1)**
+-  Reach me: **kurnazirem95@gmail.com**
+-  [LinkedIn](https://www.linkedin.com/in/irem-kurnaz-a98b5630b/) | [GitHub](https://github.com/Meri4458)
 
 ---
 
@@ -41,7 +41,7 @@ irem kurna
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meri4458&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -49,7 +49,7 @@ irem kurna
 
 ---
 
-### 💬 Let's Collaborate!
+###  Let's Collaborate!
 
 > "Code is not just syntax. It’s your vision. Your voice. Let’s create things that matter."
 
