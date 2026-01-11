@@ -27,7 +27,7 @@ irem kurna
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -49,7 +49,5 @@ irem kurna
 
 ---
 
-###  Let's Collaborate!
 
-> "Code is not just syntax. It’s your vision. Your voice. Let’s create things that matter."
 
