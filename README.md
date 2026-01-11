@@ -1,8 +1,10 @@
-//irem kurna
-//2420161073
-//[
-](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguekny2j)<h1 align="center">Hi 👋, I'm İrem Kurnaz</h1>
-<h3 align="center">Frontend Developer | Computer Programming Student | Tech Explorer</h3>
+<!-- 
+irem kurna
+2420161073
+[
+](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguekny2j)-->
+<h1 align="center">Hi 👋, I'm İrem Kurnaz</h1>
+<h3 align="center">Frontend Developer | Computer Programming Student </h3>
 
 
 
